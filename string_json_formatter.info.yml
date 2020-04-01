@@ -1,0 +1,11 @@
+name: JSON String Field Formatter
+type: module
+description: Adds JSON formatter to plain text type fields.
+# core: 8.x
+dependencies:
+  - drupal:text
+
+version: '8.x-1.1'
+core: '8.x'
+#project: 'uos_string_json_formatter'
+#datestamp: 1548517983
