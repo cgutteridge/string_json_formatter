@@ -1,0 +1,6 @@
+{
+  "name": "cgutteridge/string_json_formatter",
+  "description": "Format JSON data for Drupal 8",
+  "require": {},
+  "type": "drupal-custom-module"
+}
